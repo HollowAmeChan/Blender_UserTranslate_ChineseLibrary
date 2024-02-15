@@ -1,0 +1,213 @@
+象限坐标:,Box coordinates:
+象限中的岛屿:,Islands inside the box:
+选择,Select
+取消选择,Deselect
+将象限移动到相邻的区块上:,Move the box to an adjacent tile:
+组编号,Group Number
+分组方案,Grouping Schemes
+新方案名称:,New Scheme Name:
+警告:在混合文件中没有找到分组方案。,WARNING: no grouping scheme in the blend file found.
+应用到方案:,Apply To Scheme:
+新的分组方案,New Grouping Scheme
+添加新的分组方案,Add a new grouping scheme
+删除活动的分组方案,Remove the active grouping scheme
+向活动方案中添加组,Add a group to the active grouping scheme
+从方案中移除活动组,Remove the active group from the scheme
+在列表中向上/向下移动活动组,Move the active group up/down in the list
+向活动组添加一个新的目标区块,Add a new target box to the active group
+移除活动目标区块,Remove the active target box
+在列表中向上/向下移动活动区块,Move the active box up/down in the list
+岛分组,Island Grouping
+锁定组,Lock Groups
+堆栈组,Stack Groups
+跟踪组,Track Groups
+浏览分组方案,Browse Grouping Schemes
+显示帮助,Show Help
+显示给定功能的帮助,Show help for the given functionality
+模式帮助,Show Mode Help
+显示当前选择模式的帮助,Show help for the currently selected mode
+UVPackmaster安装帮助,UVPackmaster Setup Help
+显示安装UVPackmaster的帮助,Show help for UVPackmaster setup
+显示弹出窗口,Show a popup
+选择模式,Select Mode
+选择活动模式,Select active mode
+扩大,expanded
+选择多面板,Select Multi Panel
+拓展面板,Exapnd Panel
+展开/隐藏面板,Expand/hide the panel
+调整岛屿纹理,Adjust Islands To Texture
+调整选定岛屿的比例，使它们适合填充到活动纹理中。注意:此操作符只能在包装成非正方形区块时使用。有关非方形包装的信息，请单击帮助图标,Adjust scale of selected islands so they are suitable for packing into the active texture. CAUTION: this operator should be used only when packing to a non-square texture. For for info regarding non-square packing click the help icon
+撤销岛屿调整,Undo Islands Adjustment
+方法执行的调整,"Undo adjustment performed by the "
+完成区块编辑,Finish Box Editing
+编辑方案目标区块,Edit Scheme Target Boxes
+将块设置为平铺,Set Box To Tile
+将目标区块设置为控件定义的UDIM块,"Set a target box to a UDIM tile as defined by the "
+X方向,Direction X
+Y方向,Direction Y
+移动目标框,Move Target Box
+将目标框移动到相邻的贴图上,Move a target box to an adjacent tile
+编辑目标框,Edit Target Box
+在框中选择岛屿,Select Islands In Box
+在活动框中选择/取消选择岛屿,Select/deselect islands in the active box
+显示旋转步长设置,Show Rotation Step Setting
+显示分配给所选岛屿的旋转步长值,Show rotation step values assigned to the selected islands
+设置旋转步长,Set Rotation Step
+设置所选岛屿的旋转步长值。要设置的值由,"Set rotation step value for the selected islands. The value to be set is defined by the "
+复位旋转步骤,Reset Rotation Step
+重置所选岛屿的旋转步长值。之后重置特殊,"Reset rotation step value for the selected islands. After reset a special "
+显示比例限制设置,Show Scale Limit Setting
+显示分配给所选岛屿的比例极限值,Show scale limit values assigned to the selected islands
+设定比例限制,Set Scale Limit
+设置所选岛屿的比例限制值。要设置的值由,"Set scale limit value for the selected islands. The value to be set is defined by the "
+复位刻度限制,Reset Scale Limit
+重置所选岛屿的比例限制值,Reset scale limit value for the selected islands
+显示组号,Show Group Assignment
+显示所选岛屿分配给的所有组的编号,Show the names of all groups the selected islands are assigned to
+将岛屿划分为组,Assign Islands To The Group
+将选定的岛屿分配给活动组,Assign the selected islands to the active group
+重置组,Reset Groups
+重置所选岛屿的组分配,Reset the group assignment for the selected islands
+选择分配给组的岛屿,Select Islands Assigned To Group
+选择/取消选择分配给活动组的所有岛屿,Select / deselect all islands which are assigned to the active group
+将分组应用于方案,Apply Grouping To Scheme
+使用当前选择的自动分组方法创建或扩展手动分组方案,Create or extend a manual grouping scheme using the currently selected automatic grouping method
+跳过默认组,Skip Default Group
+在新方案中应用分组时，不给默认组分配面孔,Do not assign faces to the default group when applying grouping to a new scheme
+显示所选岛屿分配的组号,Show group numbers the selected islands are assigned to
+将岛屿划分为组,Assign Islands To Group
+将选定的岛屿分配到由,"Assign the selected islands to the group determined by the "
+将岛屿分配给未占用组,Assign Islands To Free Group
+将选定的岛屿分配到第一个自由组(UV地图中目前未被人脸使用的最低组),Assign the selected islands to the first free group (the lowest group not currently used by faces in the UV map)
+移除组,Unset Groups
+取消所选岛屿的组分配(岛屿将不属于任何组),Unset the group assignment for the selected islands (the islands will not belong to any group)
+选择/取消选择所有被分配给小组的岛,"Select / deselect all islands which are assigned to the group determined by the "
+选择所有组,Select All Groups
+选择分配给任何组的所有岛屿,Select all islands which are assigned to any group
+显示对齐优先级,Show Align Priority
+显示分配给选定岛屿的对齐优先级值,Show align priority values assigned to the selected islands
+设置对齐优先级,Set Align Priority
+为选定的岛屿设置对齐优先级值。要设置的值由,"Set align priority value for the selected islands. The value to be set is defined by the "
+重置对齐优先级,Reset Align Priority
+重置所选岛屿的对齐优先级(将优先级为0分配给岛屿),Reset align priority for the selected islands (assign priority 0 to the islands)
+将“旋转步骤”设置为建议值之一,Set Rotation Step to one of the suggested values
+设置纹理大小,Set Texture Size
+将纹理大小设置为建议值之一,Set Texture Size to one of the suggested values
+附加选项,Add-on Options
+调试选项:,Debug options:
+高级包装选项,Advanced Packing Options
+统计数据,Statistics
+上次运行统计:,Last operation statistics:
+迭代数:,"Iteration count: "
+总包装时间:,"Total packing time: "
+平均迭代时间:,"Average iteration time: "
+调整,Aligning
+选择分组方案:,Select a grouping scheme:
+←选择分组方案,← Select a grouping scheme
+方案选择:,Scheme options:
+集团选择:,Group options:
+对于当前选择的模式没有可用的组选项,No group options available the for currently selected modes
+活动岛操作:,Select islands assigned to the group:
+组目标框:(互补组目标框不可编辑),Group Target Boxes: (target boxes of the complementary group cannot be edited)
+分组选项:,Grouping options:
+方案组,Scheme Groups
+分组目标框,Group Target Boxes
+使用分组方案,Use Grouping Scheme
+使用分组方案定义组,Use a grouping scheme to define groups
+基础选项:,General options:
+UI选项:,UI options:
+专家选项:,Expert options:
+只有当你真正知道自己在做什么时，才会更改专家选项。,Change expert options only if you really know what you are doing.
+打包设备:,Packing devices:
+启用,Enabled
+发动机状态:,Engine status:
+UVPM引擎的路径:,Path to the UVPM engine:
+显示专家选项,Show Expert Options
+保存,Save
+选择预设,Option Presets
+预设负载箱,Load Box From Preset
+删除预置,Remove Preset
+从磁盘中删除选定的预设,Remove the selected preset from the disk
+文件路径,File Path
+用于导入文件的文件路径,Filepath used for importing the file
+您确定要删除吗,"Are you sure you want to delete "
+保存预置,Save Preset
+保存所有的打包选项到一个文件,Save all packer options to a file
+打开预设,Open Preset
+从文件中加载所有的打包器选项,Load all packer options from a file
+你确定要继续吗?,Are you sure you want to continue?
+从预设文件加载目标框坐标,Load target box coordinates from a preset file
+重置为默认值,Reset To Defaults
+将所有UVPM参数重置为默认值,Reset all UVPM parameters to default values
+启用旋转,Rotation Enable
+打包选项,Packing Options
+预旋转禁用,Pre-Rotation Disable
+旋转步长(度),Rotation Step (deg)
+启用镜像,Flipping Enable
+修复缩放,Fixed Scale
+归一化岛屿大小,Normalize Islands
+边缘像素距离,Pixel Margin
+像素填充,Pixel Padding
+额外时间,Extra Margin To Others
+纹理尺寸,Texture Size
+→启发式搜索,→ Heuristic Search
+搜寻时间(秒),Search Time (s)
+最大等待时间(s),Max Wait Time (s)
+先进的启发式,Advanced Heuristic
+启发式搜索,Heuristic Search
+相似对齐(堆栈),Align Similar (Stack)
+按相似度分组,Group By Similarity
+相似选项:,Similarity Options
+相似模式:,Similarity Mode:
+边界形状,Border Shape
+相似度阈值,Similarity Threshold
+调整范围,Adjust Scale
+匹配3D轴:,Match 3D Axis:
+相似模式:,Similarity Mode:
+分割重叠,Split Overlapping
+重叠检测模式:,Overlap Detection Mode:
+任何部分,Any Part
+分割重叠岛屿,Split Overlapping Islands
+撤销分割岛,Undo Island Split
+排列优先级,Align Priority
+打包到剩余区域,Pack To Others
+锁定重叠,Lock Overlapping
+锁定模式：,Lock Overlapping Mode:
+非方形打包,Non-Square Packing
+自定义目标区块,Custom Target Box
+岛旋转步长（°）,Island Rotation Step
+旋转步长,Rotation Step Value (deg)
+岛缩放限制,Island Scale Limit
+缩放限制（%）,Scale Limit Value (%)
+单区块,Single Tile
+区块,Tiles
+组到区块,Groups To Tiles
+组一并,Groups Together
+组独立,Groups Independently
+顶点位置,Vertex Position
+分组编辑器,Grouping Editor
+分组方法(编辑):,Grouping Method (Editor):
+分组方案(手动),Grouping Scheme (Manual)
+网格块,Mesh Part
+将uv定向到3D空间,Orient UVs To 3D Space
+要匹配的主轴:,Primary Axes To Match:
+要匹配的副轴:,Secondary Axes To Match:
+主/副轴偏移(度),Primary/Secondary Bias (deg)
+适配uv,Orient UVs
+其他实用程序,Other Utilities
+从对象中移除UVPM数据,Remove UVPM Data From Objects
+线程数,Thread Count
+方位感知UV岛,Orientation-Aware UV Islands
+允许不一致的岛屿,Allow Inconsistent Islands
+不变换钉固的uv,Don't Transform Pinned UVs
+保持钉固uv岛空间占用,Pinned UVs As Others
+将Mode追加到操作符名称,Append Mode To Operator Name
+禁用提示,Disable Tips
+字体大小(文字输出),Font Size (Text Output)
+字体大小(UV叠加),Font Size (UV Overlay)
+框边宽度,Box Border Width
+禁用立即UV更新,Disable Immediate UV Update
+小工具,Utilities
+重叠检查,Overlap Check
+测量区域,Measure Area
+将纹理密度调整为未选中,Adjust TD To Unselected
