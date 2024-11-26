@@ -1,0 +1,223 @@
+"智能顶点",Smart Edge
+"智能顶点合并，连接和滑动","Smart Edge Creation, Manipulation, Projection and Selection Conversion"
+"智能边缘",Smart Vert
+"智能边缘创建，操作，投影和选择转换","Smart Vertex Merging, Connecting and Sliding"
+"智能面",Smart Face
+"创建智能面和从面创建对象",Smart Face Creation and Object-from-Face Creation
+"清理",Clean Up
+"快速几何清理",Quick Geometry Clean-up
+"边缘约束",Edge Constraint
+"边缘约束旋转和缩放",Edge Constrained Rotation and Scaling
+"挤出",Extrude
+"PunchIt 挤出和光标旋转",PunchIt Manifold Extrusion and Cursor Spin
+"聚焦",Focus
+"对象聚焦和分级隔离",Object Focus and Multi-Level Isolation
+"镜像",Mirror
+"轻触对象镜像和取消镜像",Flick Object Mirroring and Un-Mirroring
+"对齐",Align
+"对象每轴位置、旋转和缩放对齐，以及对象之间对齐","Object per-axis Location, Rotation and Scale Alignment, as well as Object-Inbetween-Alignment"
+"分组",Group
+"使用空物体作为父物件对物件进行分组",Group Objects using Empties as Parents
+"智能驱动器",Smart Drive
+"使用一个对象驱动另一个对象",Use one Object to drive another
+"资产浏览器工具",Assetbrowser Tools
+"通过资产浏览器轻松创建和导入资产",Easy Assemly Asset Creation and Import via the Asset Browser
+"文件浏览器工具",Filebrowser Tools
+"文件浏览器（和资产浏览器）的其他工具/快捷方式",Additional Tools/Shortcuts for the Filebrowser (and Assetbrowser)
+"切换区域",Toggle Region
+"根据鼠标位置，使用单个 T 键图切换 3D 视图工具栏、侧边栏和资产浏览器","Toggle 3D View Toolbar, Sidebar and Asset Browsers using a single T keymap, depending on mouse position"
+"渲染",Render
+"通过着色饼菜单菜单进行高效迭代渲染和自动斜角着色器设置的工具","Tools for efficient, iterative rendering and automatic Bevel Shader Setup through the Shading Pie"
+"平滑",Smooth
+"在Korean倒角和 SubD 工作流程中切换平滑效果",Toggle Smoothing in Korean Bevel and SubD workflows
+"剪切切换",Clipping Toggle
+"视口剪切平面切换",Viewport Clipping Plane Toggle
+"曲面滑动",Surface Slide
+"在保持形状的同时轻松修改网格拓扑结构","Easily modify Mesh Topology, while maintaining Form"
+"材质拾取器",Material Picker
+"为着色器编辑器选择材质，并从其他对象或资产浏览器分配材质",Pick Materials for the Shader Editor and Assign Materials from other Objects or from the Asset Browser
+"应用",Apply
+"应用变换，同时保持斜面宽度和子变换不变",Apply Transformations while keeping the Bevel Width as well as the Child Transformations unchanged
+"选择",Select
+"选择中心对象、选择/隐藏线对象、选择层次结构","Select Center Objects, Select/Hide Wire Objects, Select Hierarchy"
+"网格切割",Mesh Cut
+"使用另一个网格对象，用刀与网格对象相交","Knife Intersect a Mesh-Object, using another one"
+"线程轻松地将圆柱体面转化为线程",Easily turn Cylinder Faces into Thread
+"线程",Thread
+"Unity",Unity
+"Unity 相关工具",Unity related Tools
+"自定义",Customize
+"自定义 Blender 的各种首选项、设置和键图","Customize various Blender preferences, settings and keymaps"
+"模式饼菜单",Modes Pie
+"快速更改模式",Quick mode changing
+"保存、打开、附加和链接。加载最近、上一页和下一页。清除和清理 屏幕截图和版本化启动文件","Save, Open, Append and Link. Load Recent, Previous and Next. Purge and Clean Out. ScreenCast and Versioned Startup file"
+"保存饼菜单",Save Pie
+"阴影饼菜单",Shading Pie
+"控制阴影、叠加、萌萌哒和一些对象属性","Control shading, overlays, eevee and some object properties"
+"视图饼菜单",Views Pie
+"控制视图。创建和管理摄像头",Control views. Create and manage cameras
+"排列图",Alignments Pie
+"编辑网格和 UV 对齐",Edit mesh and UV alignments
+"光标和原点饼菜单",Cursor and Origin Pie
+"光标和原点操作",Cursor and Origin manipulation
+"变换饼菜单",Transform Pie
+"变换方向和枢轴",Transform Orientations and Pivots
+"捕捉饼菜单",Snapping Pie
+"抓取",Snapping
+"集合饼菜单",Collections Pie
+"集合管理",Collection management
+"工作空间饼菜单",Workspace Pie
+"切换工作区。如果启用，请在 ui/pies.py 中自定义","Switch Workplaces. If enabled, customize it in ui/pies.py"
+"工具饼菜单",Tools Pie
+"切换工具和注释，支持 BoxCutter/HardOps 和HyperCursor ","Switch Tools and Annotate, with BoxCutter/HardOps and HyperCursor support"
+"在系统控制台中打印插件注册输出",Print Addon Registration Output in System Console
+"显示侧边栏面板",Show Sidebar Panel
+"HUD 缩放",HUD Scale
+"镜像点击距离",Mirror Flick Distance
+"清理",Clean Up
+"剪贴切换",Clipping Toggle
+"分组",Group
+"选择层次结构",Select Hierarchy
+"视口过渡",Viewport Tweening
+"忽略灯光（使其始终可见）",Ignore Lights (keep them always visible)
+"文件浏览器",Filebrowser
+"模态缩略图尺寸调整",Modal Thumbnail Size Adjustment
+"子菜单",Sub Menu
+"在对象上下文菜单中使用组子菜单",Use Group Sub Menu in Object Context Menu
+"在对象上下文菜单中使用组子菜单",Use Group Sub Menu in Object Context Menu
+"大纲切换",Outliner Toggles
+"在大纲标题中显示组切换按钮",Show Group Toggles in Outliner Header
+"删除空组",Remove Empty
+"在每次清理过程中自动删除空组",Automatically remove Empty Groups in each Cleanup Pass
+"键位映射",Keymaps
+"基础名称",Basename
+"自动名称",Auto Name
+"前缀",Prefix
+"后缀",Suffix
+"默认空绘图大小",Default Empty Draw Size
+"消失子组大小",Fade Sub Group Sizes
+"系数",Factor
+"资产浏览器工具",Assetbrowser Tools
+"首选默认目录（必须已经存在）",Preferred Default Catalog (must exist already)
+"创建装配资产的首选工作区",Preferred Workspace for Assembly Asset Creation
+"创建装配资产时隐藏导线对象",Hide Wire Objects when creatinng Assembly Asset
+"装配实例集时隐藏导线对象",Hide Wire Objects when assemgling Instance Collection
+"在模式饼中显示实例集合装配",Show Instance Collection Assembly in Modes Pie
+"在保存饼中显示装配资产创建",Show Assembly Asset Creation in Save Pie
+"在 “关闭范围 ”用于确定是否切换另一对之前，优先选择左/右切换，而不是底/上切换","Prefer Left/Right toggle, over Bottom/Top, before Close Range is used to determine whether the other pair is toggled"
+"关闭范围 - 接近边界，占区域宽度/高度的百分比范围",Close Range - Proximity to Boundary as Percetange of the Area Width/Height
+"如果可用，切换 “资产架 ”而不是 “浏览器”",If available toggle the Asset Shelf instead of the Browser
+"在 3D 视图顶部切换资产浏览器",Toggle Asset Browser at Top of 3D View
+"在三维视图底部切换资产浏览器",Toggle Asset Browser at Bottom of 3D View
+"将鼠标移至资产浏览器边框",Warp Mouse to Asset Browser Border
+"文件夹名称（相对于 .blend 文件）",Folder Name (relative to the .blend file)
+"种子渲染次数",Seed Render Count
+"保留单个种子渲染",Keep Individual Seed Renderings
+"使用 Clownmatte 命名",Use Clownmatte Naming
+"在灯光属性面板中显示渲染按钮",Show Render Buttons in Light Properties Panel
+"同步灯光可见性/可渲染性",Sync Light visibility/renderability
+"注：以下内容均由着色派控制",NOTE: The following are all controlled from the Shading Pie
+"在 Cycles 中渲染时调整区域光源",Adjust Area Lights when Rendering in Cycles
+"在视口渲染时执行隐藏渲染设置",Enforce hide_render settign when Viewport Rendering
+"自动设置斜角着色器",Automatically Set Up Bevel Shader
+"启用着色饼以获取更多选项",Enable the Shading Pie for additional options
+"材质选取器",Material Picker
+"在这些工作区中显示材质选取器",Show Material Picker in these Workspaces
+"在设置为材质着色的视图中显示材质选取器",Show Material Picker in Views set to Material Shading
+"在设置为渲染着色的视图中显示材质选取器",Show Material Picker in Views set to Rendered Shading
+"对象模式标题间距",Object Mode Header Spacing
+"编辑模式标题间距",Edit Mode Header Spacing
+"鼠标右键键图",Right Mouse Button Keymap
+"在材质和渲染着色模式下使用 RMB 为选区指定材质",Use RMB to Assign Material to selection in Material and Rendered shading modes
+"将材质选择器添加到右键菜单的顶层",Add Material Picker to Top-Level of Context Menu
+"大纲",Outliner
+"启动",Startup
+"叠加层",Overlays
+"界面",Interface
+"输入和导航",Input & Navigation
+"在编辑模式下切换 “Cavity/曲率 ”为 “关”，在对象模式下切换为 ""开","Toggle Cavity/Curvature OFF in Edit Mode, ON in Object Mode"
+"如果 “编辑 ”模式中启用了 “通过 ”或 “线框”，则在 “编辑 ”模式中切换为 “X 光 ”ON，在 “对象 ”模式中切换为 OFF","Toggle X-Ray ON in Edit Mode, OFF in Object Mode, if Pass Through or Wireframe was enabled in Edit Mode"
+"切换模式时，尽可能使用同步工具","Sync Tool if possible, when switching Modes"
+"导入/导出",Import / Export
+"显示 .obj 导入/导出",Show .obj Import/Export
+"显示Plasticity 导入/导出",Show Plasticity Import/Export
+"已设置轴的 .obj 导入/导出",.obj import/export with Axes set up already
+"显示 .fbx 导入/导出",Show .fbx Import/Export
+"使用 “Fbx All ”应用缩放比例",Use 'Fbx All' for Applying Scale
+"显示 .usd 导入/导出",Show .usd Import/Export
+"显示 .stl 导入/导出",Show .stl Import/Export
+"导出根文件夹",Export Root Folders
+"在 “保存饼 ”中显示屏幕截图",Show Screencast in Save Pie
+"这在 Blender 4.0 中仍然非常有限，几乎无法使用","This is still extremely limited in Blender 4.0, and practically unusable"
+"如果你发现撤销操作会导致崩溃，那么它将非常有用。",Useful if you notice Undo causing crashes
+"操作计数",Operator Count
+"字体大小",Font Size
+"高亮显示 MACHIN3 附加组件中的操作符",Highlight Operators from MACHIN3 addons
+"显示操作符的附加组件",Display Operator's Addon
+"显示操作员的 bl_idname",Display Operator's bl_idname
+"使用截图键（扩展，首选）","Use Screencast Keys (Extension, preferred)"
+"使用 SKRIBE（外部）",Use SKRIBE (external)
+"使用 SKRIBE（专用，首选）","Use SKRIBE (dedicated, preferred)"
+"使用截图键（插件）",Use Screencast Keys (addon)
+"在 饼菜单中提供预取消保存功能",Make Pre-Undo Saving available in the Pie
+"版本化启动文件",Versioned Startup File
+"叠加层可见性（每种着色类型）",Overlay Visibility (per-shading type)
+"材质阴影",Material Shading
+"渲染着色",Rendered Shading
+"线框阴影",Wire Shading
+"实体着色",Solid Shading
+"自动平滑",Autosmooth
+"自动平滑角度预设在 “着色饼 ”中以按钮形式显示",Auto Smooth Angle Presets shown in the Shading Pie as buttons
+"打开自动平滑修改器，不要将其折叠","Leave Auto Smooth Modifier open, and don't collapse it"
+"Matcap 切换",Matcap Switch
+"切换背景",Switch Background too
+"强制 Matcap 2 使用单色阴影",Force Single Color Shading for Matcap 2
+"禁用 Matcap 2 的叠加效果",Disable Overlays for Matcap 2
+"使用自定义视图时强制使用轨迹球导航",Force Trackball Navigation when using Custom Views
+"使用自定义视图时设置变换预设",Set Transform Preset when using Custom Views
+"显示转盘/轨迹球轨道方法选择",Show Turntable/Trackball Orbit Method Selection
+"显示活动周围的轨道",Show Orbit around Active
+"将分辨率和相机镜头与视口相匹配",Match Resolution and Camera Lens to Viewport
+"游标和原点饼",Cursor and Origin Pie
+"显示游标和选定网格",Show Cursor and Selected to Grid
+"设置游标设置时变换预设值",Set Transform Preset when Setting Cursor
+"显示绝对网格捕捉",Show Absolute Grid Snapping
+"显示体积截取",Show Volume Snapping
+"您有责任选择实际存在的工作区和图标名称！",It's your responsibility to pick workspace- and icon names that actually exist!
+"图标名称？",Icon Names?
+"显示快速收藏夹",Show Quick Favorites
+"显示工具栏",Show Tool Bar
+"显示注释",Show Annotate
+"显示曲面绘制",Show SurfaceDraw
+"显示硬操作",Show Hard Ops
+"显示硬操作菜单",Show Hard Ops Menu
+"显示方框剪切",Show BoxCutter
+"显示方框剪切预设",Show BoxCutter Presets
+"未激活带有设置的工具或饼状菜单。",No tools or pie menus with settings have been activated.
+"雕刻模式冲突",Sculpt Mode Conflicts
+"在雕刻模式下，有一个冲突的按键映射阻止了着色饼的出现。我建议你重新映射它，也许可以添加一个 mod 键？","There is a conflicting keymap, preventing the Shading Pie from coming up in Sculpt mode. I suggest you remap it, maybe by adding a mod key?"
+"在 “雕刻 ”模式下，“视图饼 ”无法显示，存在冲突的键位映射。我建议你重新映射它，或许添加一个修改键？","There is a conflicting keymap, preventing the Views Pie from coming up in Sculpt mode. I suggest you remap it, maybe by adding a mod key?"
+"将已修改的键映射重置为默认值",Reset Modified Keymaps to Default
+"恢复缺失的键映射",Restore Missing Keymaps
+"没有可用的键映射，因为没有激活任何工具。","No keymappings available, because none of the tools have been activated."
+"没有创建键映射，因为没有激活任何馅饼。","No keymappings created, because none of the pies have been activated."
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
